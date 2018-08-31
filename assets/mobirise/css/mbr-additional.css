@@ -3,6 +3,7 @@
 
 
 
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -1452,7 +1453,7 @@ body {
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
